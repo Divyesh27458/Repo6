@@ -16,7 +16,11 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-	</properties>
+
+  <sonar.projectKey>Divyesh27458_Repo6</sonar.projectKey>
+  <sonar.organization>divyesh27458</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>7b6cf59d41c9f2df011e3bba1377bb4328414bce</sonar.login>	</properties>
 	
 	<dependencyManagement>
 		<dependencies>
