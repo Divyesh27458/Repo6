@@ -31,7 +31,7 @@ import com.OMS.ProductService.service.productService;
 @RestController
 @EnableAutoConfiguration
 @CrossOrigin
-@RequestMapping("api/")
+@RequestMapping("/api")
 public class ProductController {
 	
 	Logger logger = LoggerFactory.getLogger(this.getClass());
